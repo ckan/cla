@@ -10,6 +10,7 @@ Please complete the following information about you and the Contributions. If
 you have questions about these terms, please contact us at legal@okfn.org.
 
 You and the Open Knowledge Foundation agree:
+
 **You grant to the Open Knowledge Foundation a perpetual, non-exclusive,
 irrevocable, worldwide, royalty-free, transferable license** (with the power to
 sub-license) of all of your relevant intellectual property rights (including
