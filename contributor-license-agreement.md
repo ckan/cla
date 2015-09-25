@@ -1,27 +1,26 @@
-﻿# CKAN Contributor License Agreement
+# CKAN Contributor License Agreement
 
 The document below clarifies the terms under which you, the person listed
 below, may make "Contributions" (software, bug fixes, configuration changes,
 documentation, or any other materials) to the project. This licence protects
-you, the Open Knowledge Foundation and licensees; it does not change your
+you, the CKAN Association and licensees; it does not change your
 rights to use your own Contributions for any other purpose.
 
 Please complete the following information about you and the Contributions. If
-you have questions about these terms, please contact us at legal@okfn.org.
+you have questions about these terms, please contact us at legal@ckan.org.
 
-You and the Open Knowledge Foundation agree:
+You and the CKAN Association agree:
 
-**You grant to the Open Knowledge Foundation a perpetual, non-exclusive,
+**You grant to the CKAN Association a perpetual, non-exclusive,
 irrevocable, worldwide, royalty-free, transferable license** (with the power to
 sub-license) of all of your relevant intellectual property rights (including
 copyright, patent, and any other rights) for any purpose, including: to use,
 copy, make available to the public, prepare derivative works of, distribute and
 publicly perform. It also includes the right to license the Contributions to
-others without any restriction on the nature of the sub-licence, including
-without limitation: (a) open source licenses like the MIT license; and (b)
-binary, proprietary, or commercial licenses. Except for the license you have
-granted to us in this agreement, you reserve all other rights you possess in
-the Contribution.
+others under the existing open-source license for the code which is the AGPL
+(GNU Affero General Public License v3 or any later version). Except for the 
+license you have granted to us in this agreement, you reserve all other rights 
+you possess in the Contribution.
 
 **You are able to grant us these rights.** You represent that you are legally
 entitled to grant the above licence. For example, if your employer has rights
@@ -41,10 +40,10 @@ this agreement, unless they gave you appropriate permission.
 
 **We determine the code that is in our project.** You understand that the
 decision to include the Contribution in any project or source repository is
-entirely that of the Open Knowledge Foundation, and this agreement does not
+entirely that of the CKAN Association, and this agreement does not
 guarantee that the Contributions will be included in any product.
 
-**No Implied Warranties.** The Open Knowledge Foundation acknowledges that,
+**No Implied Warranties.** The CKAN Association acknowledges that,
 except as explicitly described in this agreement, you have provided the
 Contribution on an "as is" basis, without warranties as to merchantability, or
 fitness for a particular purpose.
